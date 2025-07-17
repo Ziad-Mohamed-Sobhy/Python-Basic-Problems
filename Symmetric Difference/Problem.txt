@@ -1,0 +1,12 @@
+Given  sets of integers, M and N , print their symmetric difference in ascending order. The term symmetric difference indicates those values that exist in either M or N but do not exist in both.
+
+Input Format
+
+The first line of input contains an M integer, .
+The second line contains M space-separated integers.
+The third line contains an integer,N .
+The fourth line contains N space-separated integers.
+
+Output Format
+
+Output the symmetric difference integers in ascending order, one per line
